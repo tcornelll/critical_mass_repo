@@ -22,4 +22,10 @@ Inspiration
 
 A friend of mine recently recommended a sandbox game called Dwarf Fortress to me that I decided to try out. This game is so in depth and complex that I almost cannot begin to describe it. It is the closes thing to a real world that I have ever seen in a game. It is a game with no missions, ending, or objectives. You are just dropped into an incredibly immersive world and told "have fun". The reason why I find this game incredible is the amount of attention to detail in the game is jaw dropping. Normally, when I play a videogame, I expect certain things to be unrealistic for the sake of fun, and when those unrealistic aspects of that game rear their heads, I don't think twice of it. However, after playing Drawf Fortress only for a few hours, when I play another game, I immediately recognize the unrealistic aspects of that game. At first, I thought that would maek the game less fun and more challenging, but it made it more fun as well as more challenging. Just the though of the detail in this game makes me excited to play it. 
 
+2. Git 
+
+As a programmer, Git is something that I cannot live without. I use it for every single one of my projects, whether or not I'm working with a partner. Because I use it so frequently, I notice that it can be easily taken for granted. I truly feel sorry for the programmers who had to code together without Git. When using git, a project is given instant modularity, giving many users the ability to see the same code, work on that code, and my favorite, merge their individual branches to bring together all of their work. One of my favorite programming jokes is "What one programmer can accomplish in one month, two programmers can do in two". Git makes this joke irrelevant, which is a unfortunate because it's so good. With Git, two different coders who see the world through two different lenses, who have two completely differnet styles of coding don't have to work on one computer screen. I make sure I remind myself of that every time I commit and push. 
+
+3. 
+
 
