@@ -35,3 +35,8 @@ Focus
 If I had to chance to build or learn anything I wanted during my internship, I would learn how to create video games. I have always liked playing video games growing up, and have always wondered what went into creating a good one. On top of that, I have always been a bit of an entertainer and people-pleaser, meaning I like to make people happy. I would probably spend about half the summer doing research such as which engine to use, which language would be best for which types of games, how to do the artwork, etc. And the second half, I would try to create something small to show what I've learned. I probably wouldn't work on it every day, but surely every week, and on the days that I did work on creating a game, it would be after I got home from work. 
 
 
+Code Challenge
+
+https://codesandbox.io/s/6mrqqo7z3?fontsize=14
+
+
