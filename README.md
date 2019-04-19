@@ -26,6 +26,12 @@ A friend of mine recently recommended a sandbox game called Dwarf Fortress to me
 
 As a programmer, Git is something that I cannot live without. I use it for every single one of my projects, whether or not I'm working with a partner. Because I use it so frequently, I notice that it can be easily taken for granted. I truly feel sorry for the programmers who had to code together without Git. When using git, a project is given instant modularity, giving many users the ability to see the same code, work on that code, and my favorite, merge their individual branches to bring together all of their work. One of my favorite programming jokes is "What one programmer can accomplish in one month, two programmers can do in two". Git makes this joke irrelevant, which is a unfortunate because it's so good. With Git, two different coders who see the world through two different lenses, who have two completely differnet styles of coding don't have to work on one computer screen. I make sure I remind myself of that every time I commit and push. 
 
-3. 
+3. Firebase
+
+As I mentioned above, I will always look for all the tools that would make my job easier as a programmer. When I learned about Firebase, it almost made me feel guilty using it, because it was so easy and intuitive. From the Firebase auth module to the Firestore module, to the storage, there is always a good reason to use it. I have only used it while developing mobile applications, but to my understanding, Firebase can be used on the web as well, which makes it even better. 
+
+Focus 
+
+If I had to chance to build or learn anything I wanted during my internship, I would learn how to create video games. I have always liked playing video games growing up, and have always wondered what went into creating a good one. On top of that, I have always been a bit of an entertainer and people-pleaser, meaning I like to make people happy. I would probably spend about half the summer doing research such as which engine to use, which language would be best for which types of games, how to do the artwork, etc. And the second half, I would try to create something small to show what I've learned. I probably wouldn't work on it every day, but surely every week, and on the days that I did work on creating a game, it would be after I got home from work. 
 
 
